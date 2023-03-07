@@ -1,5 +1,5 @@
 # Stock Mate
-### [🚀https://stock-mate.com/](https://stock-mate.com/ "Deployment")
+### [🚀 https://stock-mate.com/](https://stock-mate.com/ "Deployment")
 
 ___
 ### Designed to help businesses efficiently manage their sales transactions and inventory. A user-friendly, web-based platform that streamlines business operations and helps improve overall productivity.
